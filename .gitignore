@@ -1,0 +1,3 @@
+# Python runtime cruft:
+__pycache__/
+.idea/
