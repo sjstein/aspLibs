@@ -13,6 +13,7 @@ V_LOW = 1
 V_MED = 2
 V_HIGH = 3
 
+DATA_DIR = './Data'     # Subdirectory into which data is stored
 
 class IntRange:
     """
